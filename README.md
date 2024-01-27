@@ -6,8 +6,6 @@ As an accomplished DevOps Engineer, I offer extensive expertise in designing res
 
 Skills: React.js, Python, Django, AWS Cloud, Kubernetes, Terraform, Docker, Ansible, Jenkins
 
-- 🔭 I’m currently working on this page. 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DelaneKay)  
 
